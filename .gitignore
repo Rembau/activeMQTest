@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+activeMQTest.iml
+activeMQTestReceiver/activeMQTestReceiver.iml
+activeMQTestReceiver/src/test/
+activeMQTestReceiver/target/
+activeMQTestSender/activeMQTestSender.iml
+activeMQTestSender/src/test/
+activeMQTestSender/target/
+logs/
